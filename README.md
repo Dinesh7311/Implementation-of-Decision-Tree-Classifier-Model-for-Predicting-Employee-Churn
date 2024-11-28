@@ -79,9 +79,10 @@ plt.title("Decision Tree Visualization")
 plt.show()
 
 ## Output:
-![ex 8-1](https://github.com/user-attachments/assets/59c5a090-fa6a-4414-8be2-24b4f9d4fef3)
-![ex 8-2](https://github.com/user-attachments/assets/7bebd641-6cde-4bd7-bd6b-cfa8955bf577)
-![Uploading ex-8-3.jpg…]()
+![Screenshot 2024-11-28 181230](https://github.com/user-attachments/assets/16fb7f1a-889a-44dd-8112-b808edb5a37c)
+![Uploading Screenshot 2024-11-28 181246.png…]()
+![Uploading Screenshot 2024-11-28 181310.png…]()
+
 
 
 
